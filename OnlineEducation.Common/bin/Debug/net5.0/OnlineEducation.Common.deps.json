@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "OnlineEducation.Common/1.0.0": {
+        "runtime": {
+          "OnlineEducation.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OnlineEducation.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

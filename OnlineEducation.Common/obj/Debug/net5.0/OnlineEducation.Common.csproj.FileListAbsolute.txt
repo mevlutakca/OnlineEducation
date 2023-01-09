@@ -1,0 +1,12 @@
+C:\Users\MevlütAKÇAAtolla\source\repos\OnlineEducationApi\OnlineEducation.Common\bin\Debug\net5.0\OnlineEducation.Common.deps.json
+C:\Users\MevlütAKÇAAtolla\source\repos\OnlineEducationApi\OnlineEducation.Common\bin\Debug\net5.0\OnlineEducation.Common.dll
+C:\Users\MevlütAKÇAAtolla\source\repos\OnlineEducationApi\OnlineEducation.Common\bin\Debug\net5.0\ref\OnlineEducation.Common.dll
+C:\Users\MevlütAKÇAAtolla\source\repos\OnlineEducationApi\OnlineEducation.Common\bin\Debug\net5.0\OnlineEducation.Common.pdb
+C:\Users\MevlütAKÇAAtolla\source\repos\OnlineEducationApi\OnlineEducation.Common\obj\Debug\net5.0\OnlineEducation.Common.csproj.AssemblyReference.cache
+C:\Users\MevlütAKÇAAtolla\source\repos\OnlineEducationApi\OnlineEducation.Common\obj\Debug\net5.0\OnlineEducation.Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MevlütAKÇAAtolla\source\repos\OnlineEducationApi\OnlineEducation.Common\obj\Debug\net5.0\OnlineEducation.Common.AssemblyInfoInputs.cache
+C:\Users\MevlütAKÇAAtolla\source\repos\OnlineEducationApi\OnlineEducation.Common\obj\Debug\net5.0\OnlineEducation.Common.AssemblyInfo.cs
+C:\Users\MevlütAKÇAAtolla\source\repos\OnlineEducationApi\OnlineEducation.Common\obj\Debug\net5.0\OnlineEducation.Common.csproj.CoreCompileInputs.cache
+C:\Users\MevlütAKÇAAtolla\source\repos\OnlineEducationApi\OnlineEducation.Common\obj\Debug\net5.0\OnlineEducation.Common.dll
+C:\Users\MevlütAKÇAAtolla\source\repos\OnlineEducationApi\OnlineEducation.Common\obj\Debug\net5.0\ref\OnlineEducation.Common.dll
+C:\Users\MevlütAKÇAAtolla\source\repos\OnlineEducationApi\OnlineEducation.Common\obj\Debug\net5.0\OnlineEducation.Common.pdb

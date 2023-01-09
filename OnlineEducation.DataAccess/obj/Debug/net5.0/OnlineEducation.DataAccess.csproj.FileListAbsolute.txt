@@ -1,0 +1,15 @@
+C:\Users\MevlütAKÇAAtolla\source\repos\OnlineEducationApi\OnlineEducation.DataAccess\bin\Debug\net5.0\OnlineEducation.DataAccess.deps.json
+C:\Users\MevlütAKÇAAtolla\source\repos\OnlineEducationApi\OnlineEducation.DataAccess\bin\Debug\net5.0\OnlineEducation.DataAccess.dll
+C:\Users\MevlütAKÇAAtolla\source\repos\OnlineEducationApi\OnlineEducation.DataAccess\bin\Debug\net5.0\ref\OnlineEducation.DataAccess.dll
+C:\Users\MevlütAKÇAAtolla\source\repos\OnlineEducationApi\OnlineEducation.DataAccess\bin\Debug\net5.0\OnlineEducation.DataAccess.pdb
+C:\Users\MevlütAKÇAAtolla\source\repos\OnlineEducationApi\OnlineEducation.DataAccess\obj\Debug\net5.0\OnlineEducation.DataAccess.csproj.AssemblyReference.cache
+C:\Users\MevlütAKÇAAtolla\source\repos\OnlineEducationApi\OnlineEducation.DataAccess\obj\Debug\net5.0\OnlineEducation.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MevlütAKÇAAtolla\source\repos\OnlineEducationApi\OnlineEducation.DataAccess\obj\Debug\net5.0\OnlineEducation.DataAccess.AssemblyInfoInputs.cache
+C:\Users\MevlütAKÇAAtolla\source\repos\OnlineEducationApi\OnlineEducation.DataAccess\obj\Debug\net5.0\OnlineEducation.DataAccess.AssemblyInfo.cs
+C:\Users\MevlütAKÇAAtolla\source\repos\OnlineEducationApi\OnlineEducation.DataAccess\obj\Debug\net5.0\OnlineEducation.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\MevlütAKÇAAtolla\source\repos\OnlineEducationApi\OnlineEducation.DataAccess\obj\Debug\net5.0\OnlineEducation.DataAccess.dll
+C:\Users\MevlütAKÇAAtolla\source\repos\OnlineEducationApi\OnlineEducation.DataAccess\obj\Debug\net5.0\ref\OnlineEducation.DataAccess.dll
+C:\Users\MevlütAKÇAAtolla\source\repos\OnlineEducationApi\OnlineEducation.DataAccess\obj\Debug\net5.0\OnlineEducation.DataAccess.pdb
+C:\Users\MevlütAKÇAAtolla\source\repos\OnlineEducationApi\OnlineEducation.DataAccess\bin\Debug\net5.0\OnlineEducation.Data.dll
+C:\Users\MevlütAKÇAAtolla\source\repos\OnlineEducationApi\OnlineEducation.DataAccess\bin\Debug\net5.0\OnlineEducation.Data.pdb
+C:\Users\MevlütAKÇAAtolla\source\repos\OnlineEducationApi\OnlineEducation.DataAccess\obj\Debug\net5.0\OnlineEducation.DataAccess.csproj.CopyComplete
